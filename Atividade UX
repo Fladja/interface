@@ -1,18 +1,17 @@
 Atvidade UX - 28 de abril 
 Mariana Freitas e Stephanny Fladja 
 
--Análise da interface do buscador 
+PARTE UM - Análise da interface do buscador 
 
   Affordance:
-      Segundo à tradução, affordance indica acessibilidade, ou seja, está relacionada com uma fácil identificação dos elementos do sistema pelo usuário, bem como a sua 
-    utilidade, baseada em suas experiências anteriores. 
-      Em nosso site, podemos observar como sendo affordance os seguintes pontos:
-        -Barra de pesquisa: o usuário é condicionado que a partir dela ele poderá utilizar uma pesquisa;
+        Segundo à tradução, affordance indica acessibilidade, ou seja, podemor referenciar que ela está relacionada com uma fácil identificação, por parte do usuário,
+      dos elementos propostos, bem como a sua utilidade, levando em conta também seu conhecimento baseado em suas experiências anteriores. 
+        Trazendo a perspectiva do affordance para o nosso site, podemos observar que temos os seguintes elementos:
+        -Barra de pesquisa: o usuário é condicionado que a partir dela ele poderá utilizar uma pesquisa, através a digitação do objeto de seu interesse via teclado;
         -Lupa: remete a busca, a partir de um click nela o usuário terá um retorno do que foi pesquisado;
         
-        
   Metáforas: 
-    Implica uma representação de forma figurada de algo real.
+    Implica na utilização de conceitos mais abstratos a partir de mais concretos, familiares e de experiência do usuário.
        -Lupa: é sensitiva ao conceito de buscar algo com o objetivo de ter sucesso em sua busca;
       
   IHC:
@@ -20,6 +19,11 @@ Mariana Freitas e Stephanny Fladja
     -Lupa: O usuário interage a partir do momento que clica, para se realizar determinada busca.
     -Barra de pesquisa: O usuário deposita, escrevendo, sua busca no espaço.
     
- Arquitetura de informação
-       
+ Arquitetura de informação: 
+ 
+ Visual Design:
+ 
+ PARTE DOIS - Conceitos de usabilidade 
+ 
+ 
        
