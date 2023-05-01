@@ -15,15 +15,48 @@ PARTE UM - Análise da interface do buscador
        -Lupa: é sensitiva ao conceito de buscar algo com o objetivo de ter sucesso em sua busca;
       
   IHC:
-  Tudo que interage com o usuário.
+   Tudo que interage com o usuário.
     -Lupa: O usuário interage a partir do momento que clica, para se realizar determinada busca.
     -Barra de pesquisa: O usuário deposita, escrevendo, sua busca no espaço.
     
  Arquitetura de informação: 
- 
+    O site possui sim uma boa arquitetura, visto que o que fundamenta a arquitetura de informação é a questão de uma boa estruturação e organização de elementos, 
+  para que de forma harmônica, formule um conjunto de informações fáceis de compreender em termos de usabilidade. Então o site supre a necessidade da arquitetura de 
+  informação, tendo em vista o bom posicionamento dos elementos que o compõe.
+
  Visual Design:
+    É possível encontrar também no site. A colorimetria do site segue um padrão de variações de azul e branco, pensando também no conforto quanto ao contato visual com 
+  a tela. Os elementos em sua maioria são centralizados, para que assim, se tenha uma visão mais objetiva. Além disso, o site é bem intuitivo, as informações principais
+  da tela inicial são a barra de pesquisa e o atalho de últimas atividades, que com uma importância menor que a busca, fica localizado abaixo da barra de pesquisa, o 
+  que faz com que o olhar do usuário se direcione primeiramente para o foco do site.
+
  
  PARTE DOIS - Conceitos de usabilidade 
+ 
+ Consistência e padronização:
+    É possível identificar consistência e padronização na estrutura do site. A fonte usada segue um padrão, e as cores também, se resumindo em tons de azul e branco. 
+  Além da colorimetria e tipografia, existe uma padronização no posicionamento dos elementos, que em sua maioria estão alinhados ao centro. Dessa forma, o conjunto de 
+  técnicas em questão gera consistência e harmonia pro site.
+  
+  Prevenção de error:
+      Apesar de não ter sido demonstrada na barra de pesquisa, o site foi pensado de maneira que fica-se o mais usual possível para o cliente, assim, a prevenção de 
+    erros encontra-se a partir do momento em que, enquanto se é digitado na barra de pesquisa a anotação buscada, apareca sugestões das demais anotações que 
+    correspondem ao que está sendo digitado pelo usuário.
+    
+  Reconhecimento ao invés de memorização: 
+      Por possuir um design simples, objetivo e "clean" da perspectiva do usuário, fica fácil de reconhecer e se localizar no sistema. Assim, a partir dos elementos -
+    barra de pesquisa, lupa e textos indicando a fazer a pesquisa - o usuário consegue reconhecer facilmente o que deve fazer ao invés de somente memorizar.
+    
+  Estética e design minimalista:
+      Como é possível observar, o design do site é simples e minimalista. A tabela de cores mantém-se em tons de azul, com o acréscimo do branco, mantendo algo visualmente
+    agradável. Além disso, destaca-se para apresentar apenas as informações necessárias, utilizando inclusive o tamanho da fonte para dar destaque a trechos específicos.
+    Ademais, alega-se também que a tipografia manteve-se em um padrão, contribuindo positivamente para essa estética.
+    
+  Correspondência entre o mundo real:
+  Os ícones utilizados no site que se assemelham aos utilizados no mundo real também contribuem para a melhor usabilidade, como por exemplo a lupa, que exerce a mesma 
+  função básica do mundo real: auxiliar a busca. Além disso, é válido ressaltar que a logo utilizada remete a função do site: notas, juntando esses elementos leva-se ao
+  buscar notas.
+
  
  
        
